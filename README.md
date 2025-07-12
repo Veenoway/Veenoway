@@ -1,6 +1,6 @@
 # Hey 👋
 ### I'm just a dev who loves building stuff on the blockchain.
-### Been deep into coding for 5+ years now — mostly living in the EVM world.
+### Been deep into coding for 6+ years now, mostly living in the EVM world
 
 ### I'm obsessed with Web3, smart contracts, dApps, and learning new things every day.
 
