@@ -1,4 +1,4 @@
-# Hey 👋
+# Hey 
 ### I'm just a dev who loves building stuff on the blockchain.
 ### Been deep into coding for 6+ years now, mostly living in the EVM world
 
